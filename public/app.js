@@ -77,6 +77,7 @@ document.getElementById('miAudio').addEventListener('ended', reproducirNuevament
 // Array de mensajes
 var mensajes = [
     "Tienes unos ojitos y una sonrisa que le dan sentido a mi vida. 💗",
+    "Te quieroooo demasiadooooo!!! 🥺",
     "Cualquier momento a tu lado es perfecto para ser feliz, por que no es el tiempo ni el lugar, eres tú. ❤️‍🩹"
     // Agrega aquí más mensajes si deseas
 ];
